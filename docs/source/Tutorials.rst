@@ -14,3 +14,4 @@ Here are a number of useful tutorials to get you up and running with Podman. If 
 * `How to use Podman's Go RESTful bindings <https://github.com/containers/podman/tree/main/pkg/bindings>`_: An introduction to using our RESTful Golang bindings in an external application.
 * `Common network setups <https://github.com/containers/podman/blob/main/docs/tutorials/basic_networking.md>`_: A basic guide to common network setups for Podman.
 * `Socket activation <https://github.com/containers/podman/blob/main/docs/tutorials/socket_activation.md>`_: Learn how to run containers that support socket activation.
+* `Adding extra architectures to the Podman Machine bootc image <https://github.com/containers/podman/blob/main/docs/tutorials/podman_machine_bootc_extra_arches.md>`_: Build and apply a custom machine OS image to enable emulation of additional CPU architectures beyond the default amd64 and arm64.
